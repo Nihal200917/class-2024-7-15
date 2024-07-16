@@ -1,0 +1,12 @@
+---
+title: "Class 2024-7-15"
+author: "Nihal Neeraj"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(scales)
+```
+
+
